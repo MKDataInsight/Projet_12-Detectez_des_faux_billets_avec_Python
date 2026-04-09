@@ -1,27 +1,15 @@
 # Fake-bills-detector
-Trained a model to authenticate banknotes
 
-authenticate.py :
-  Final script to run in terminal
-    Command :
-      python votre_script.py --csv_path chemin/vers/votre_fichier.csv 
-      --model_path chemin/vers/votre_modele.joblib
-    Warning : CSV needs to have the correct layout
+Objectifs :
+  Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
+  Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
 
-best_logistic_regression_model.joblib :
-  Best model identified through notebook work, to use with authenticate
+Compétences :
+  Explorer et visualiser les données
+  Préparer et nettoyer le jeu de données
+  Construire et comparer plusieurs modèles de classification
+  Évaluer leurs performances et choisir le plus efficace
+  Identifier les critères qui permettent de repérer un faux billet
+  Présenter clairement vos résultats et votre modèle
 
-billets.csv :
-  Data used for model training
-
-billets_production.csv, billets_test.csv :
-  Data used for model testing
-
-notebook.ipynb :
-  Data Preparation/Transformation
-  Model Training
-  Model Optimization
-
-presentation.odp :
-  PowerPoint presentation of the work
-  
+ 
