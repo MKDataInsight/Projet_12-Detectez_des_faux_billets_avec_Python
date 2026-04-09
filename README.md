@@ -2,7 +2,7 @@
 
 Objectifs :
 
-  Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
+    Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
 
   Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
 
