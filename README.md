@@ -1,4 +1,4 @@
-# Fake-bills-detector
+Projet 12 - Détectez des faux billets avec Python
 
 Objectifs :
 
